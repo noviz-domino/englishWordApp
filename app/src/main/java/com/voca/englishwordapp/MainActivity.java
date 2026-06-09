@@ -1,92 +1,128 @@
-
 package com.voca.englishwordapp;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
-
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
 
-    private List<String[]> wordList = new ArrayList<>();
+    // 단어 데이터 구조 클래스
+    class WordItem {
+        String day, word, meaning;
+        WordItem(String day, String word, String meaning) {
+            this.day = day; this.word = word; this.meaning = meaning;
+        }
+    }
+
+    private List<WordItem> allWords = new ArrayList<>(); // 전체 데이터
+    private List<WordItem> filteredWords = new ArrayList<>(); // 선택된 날짜 데이터
     private int currentIndex = 0;
+
+    private View layoutHome, layoutDaySelection, layoutWordStudy;
     private TextView wordText, meaningText;
-    private Button nextButton;
-    private AdView adViewTop, adViewBottom;
+    private LinearLayout dayButtonContainer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        wordText = findViewById(R.id.wordText);
-        meaningText = findViewById(R.id.meaningText);
-        nextButton = findViewById(R.id.nextButton);
-
-        // 광고 초기화 t
+        // 1. 광고 초기화
         MobileAds.initialize(this, initializationStatus -> {});
-
-        adViewTop = findViewById(R.id.adViewTop);
-        adViewBottom = findViewById(R.id.adViewBottom);
+        AdView adTop = findViewById(R.id.adViewTop);
+        AdView adBottom = findViewById(R.id.adViewBottom);
         AdRequest adRequest = new AdRequest.Builder().build();
-        adViewTop.loadAd(adRequest);
-        adViewBottom.loadAd(adRequest);
+        adTop.loadAd(adRequest);
+        adBottom.loadAd(adRequest);
 
+        // 2. 뷰 초기화
+        layoutHome = findViewById(R.id.layout_home);
+        layoutDaySelection = findViewById(R.id.layout_day_selection);
+        layoutWordStudy = findViewById(R.id.layout_word_study);
+        dayButtonContainer = findViewById(R.id.day_button_container);
         wordText = findViewById(R.id.wordText);
         meaningText = findViewById(R.id.meaningText);
-        nextButton = findViewById(R.id.nextButton);
-        //광고코드 끝.
 
+        // 3. CSV 데이터 로드
         loadWordsFromCSV();
-        if (!wordList.isEmpty()) {
-            showWord(currentIndex);
-        }
 
-        nextButton.setOnClickListener(v -> {
-            currentIndex = (currentIndex + 1) % wordList.size();
-            showWord(currentIndex);
+        // 4. 버튼 이벤트 설정
+        findViewById(R.id.btn_go_study_list).setOnClickListener(v -> showDaySelection());
+        findViewById(R.id.nextButton).setOnClickListener(v -> {
+            if (currentIndex < filteredWords.size() - 1) {
+                currentIndex++;
+                updateUI();
+            }
+        });
+        findViewById(R.id.prevButton).setOnClickListener(v -> {
+            if (currentIndex > 0) {
+                currentIndex--;
+                updateUI();
+            }
         });
     }
 
     private void loadWordsFromCSV() {
-        try {
-            BufferedReader reader = new BufferedReader(
-                    new InputStreamReader(getAssets().open("words.csv"))
-            );
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(getAssets().open("words.csv")))) {
             String line;
-            boolean isFirstLine = true;
-
-            while ((line = reader.readLine()) != null) {
-                if (isFirstLine) {
-                    isFirstLine = false;
-                    continue; // 헤더 줄 건너뜀
-                }
-                // "day1,resume,이력서" 형태
-                String[] parts = line.split(",", 3);
-                if (parts.length == 3) {
-                    String word = parts[1].trim();
-                    String meaning = parts[2].trim();
-                    wordList.add(new String[]{word, meaning});
-                }
+            br.readLine(); // 헤더 무시
+            while ((line = br.readLine()) != null) {
+                String[] p = line.split(",", 3);
+                if (p.length >= 3) allWords.add(new WordItem(p[0].trim(), p[1].trim(), p[2].trim()));
             }
+        } catch (Exception e) { e.printStackTrace(); }
+    }
 
-            reader.close();
-        } catch (Exception e) {
-            e.printStackTrace();
+    private void showDaySelection() {
+        layoutHome.setVisibility(View.GONE);
+        layoutDaySelection.setVisibility(View.VISIBLE);
+        layoutWordStudy.setVisibility(View.GONE);
+
+        Set<String> days = new LinkedHashSet<>();
+        for (WordItem item : allWords) days.add(item.day);
+
+        dayButtonContainer.removeAllViews();
+        for (String day : days) {
+            Button b = new Button(this);
+            b.setText(day);
+            b.setOnClickListener(v -> {
+                filteredWords.clear();
+                for (WordItem item : allWords) if (item.day.equals(day)) filteredWords.add(item);
+                currentIndex = 0;
+                updateUI();
+                layoutDaySelection.setVisibility(View.GONE);
+                layoutWordStudy.setVisibility(View.VISIBLE);
+            });
+            dayButtonContainer.addView(b);
         }
     }
 
-    private void showWord(int index) {
-        String[] entry = wordList.get(index);
-        wordText.setText(entry[0]);
-        meaningText.setText(entry[1]);
+    private void updateUI() {
+        if (!filteredWords.isEmpty()) {
+            wordText.setText(filteredWords.get(currentIndex).word);
+            meaningText.setText(filteredWords.get(currentIndex).meaning);
+        }
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (layoutWordStudy.getVisibility() == View.VISIBLE) showDaySelection();
+        else if (layoutDaySelection.getVisibility() == View.VISIBLE) {
+            layoutDaySelection.setVisibility(View.GONE);
+            layoutHome.setVisibility(View.VISIBLE);
+        } else super.onBackPressed();
     }
 }
