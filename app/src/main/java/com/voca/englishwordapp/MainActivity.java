@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         meaningText = findViewById(R.id.meaningText);
         nextButton = findViewById(R.id.nextButton);
 
-        // 광고 초기화
+        // 광고 초기화 t
         MobileAds.initialize(this, initializationStatus -> {});
 
         adViewTop = findViewById(R.id.adViewTop);
