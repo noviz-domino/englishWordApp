@@ -11,8 +11,9 @@ android {
         minSdk = 21
         //noinspection EditedTargetSdkVersion
         targetSdk = 35
-        versionCode = 7
-        versionName = "7.0"
+        //아래 두줄이 버전 갱신하는 부분. 두줄만 바꿔야함.
+        versionCode = 8   //반드시 정수여야함. 구글플레이스토어의 시스템이 인식하려면 이전 숫자보다 부조건 커야함.
+        versionName = "8.0"    //사용자에게 보이는 버전.
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
