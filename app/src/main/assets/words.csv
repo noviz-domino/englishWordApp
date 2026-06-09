@@ -91,8 +91,7 @@ day3,directly,곧바로
 day3,remind,"~에게 상기시키다, 일깨우다"
 day3,instruct,"지시하다, 가르치다"
 day3,deadline,"마감일, 마감 시간"
-day3,sample,"견본, 샘플, 표본
-시식하다, (견본으로 질을)시험하다"
+day3,sample,"견본, 샘플, 표본 , 시식하다, (견본으로 질을)시험하다"
 day3,notify,"~에게 통지하다, 알리다"
 day3,perform,"행하다, 실행하다"
 day3,monitor,"감독하다, 감시하다, 실행하다"
@@ -115,8 +114,7 @@ day3,acquaint,"~에게 숙지시키다, 잘 알게 하다"
 day3,convey,(용건을)전달하다
 day3,check,"검사하다, 조사하다, 확인하다"
 day3,headquarters,본부
-day3,file,"(서류를)정리하다, 철하다;
-(서류, 신청, 고소 등을)정식으로 제기하다, 제출하다"
+day3,file,"(서류를)정리하다, 철하다; (서류, 신청, 고소 등을)정식으로 제기하다, 제출하다"
 day3,oversee,"감독하다 (foresee예견하다, oversea해외의)"
 day3,involved,"관여하는, 관계된, 연루된"
 day3,concentrate,"집중하다, 집중시키다"
@@ -126,8 +124,7 @@ day4,combined,"결합된, 합동의"
 day4,accomplish,성취하다
 day4,voluntarily,자발적으로
 day4,undertake,(일을)떠맡다
-day4,assume,"(증거는 없으나)사실이라고 생각하다;
-(책임,역할을)맡다"
+day4,assume,"(증거는 없으나)사실이라고 생각하다;(책임,역할을)맡다"
 day4,occasionally,"가끔, 때때로"
 day4,employee,"직원, 고용인"
 day4,assist,"돕다, 조력하다"
@@ -370,8 +367,7 @@ day10,affordable,"(가격이)알맞은, 감당할 수 있는"
 day10,exactly,정확히
 day10,auction,경매
 day10,authentic,"진정한, 진짜의, 진품의"
-day10,charge,"요금,청구,금액;책임,의무
-~을 청구하다; (외상으로)달아놓다"
+day10,charge,"요금,청구,금액;책임,의무, ~을 청구하다; (외상으로)달아놓다"
 day10,notice,"통지, 공고"
 day10,experienced,"경험이 있는, 노련한, 능숙한"
 day10,instruction,"설명, 지시 (instruct 가르치다, 지시하다, instructor교사, 강사)"
@@ -396,8 +392,7 @@ day10,alter,"(성질, 형상을)고치다, 바꾸다"
 day10,apply,적용하다; 지원하다
 day10,mutually,"서로, 상호 간에 (mutuality 상호관계, 상호의존)"
 day10,method,"방식, 방법"
-day10,acceptable,"용인되는, 받아들일 수 있는;
-훌륭한, 만족스러운"
+day10,acceptable,"용인되는, 받아들일 수 있는;훌륭한, 만족스러운"
 day10,desire,"욕구, 갈망, 원하다, 바라다"
 day10,redeemable,"(현금,상품과)교환할 수 있는, 환급할 수 있는( redeem 상환하다)"
 day10,officially,공식적으로
@@ -415,35 +410,30 @@ day11,inspiration,영감
 day11,sufficiently,"충분히(sufficient 충분한, 충분)"
 day11,patent,"특허, 특허권, 특허품"
 day11,envision,"(장래의 일 등을)계획하다, 상상하다"
-day11,extend,"연장하다; (기간을)늘리다;
-(감사의 뜻을)말하다, 베풀다"
+day11,extend,"연장하다; (기간을)늘리다;(감사의 뜻을)말하다, 베풀다"
 day11,following,"~후에, 다음의, 다음에 오는"
 day11,intend,~할 작정이다; 의도하다
-day11,grant,"(인정하여 정식으로)수여하다, 주다,
-(연구비, 장학금등의)보조금"
+day11,grant,"(인정하여 정식으로)수여하다, 주다,(연구비, 장학금등의)보조금"
 day11,allow,"~하게 하다, ~을 허락하다"
 day11,inspect,"~을 검사하다, 조사하다"
 day11,improve,"향상시키다, 개선하다"
 day11,increasingly,"점점, 더욱 더"
 day11,invest,"투자하다, 운용하다"
 day11,various,"여러 가지의, 가지각색의"
-day11,upgrade,"업그레이드, 개량형
-업그레이드하다, 개선하다"
+day11,upgrade,"업그레이드, 개량형업그레이드하다, 개선하다"
 day11,manual,"설명서, 안내서"
 day11,explore,"조사하다, 탐구하다"
 day11,response,"응답, 대답"
 day11,appearance,"외관, 외모"
 day11,successful,"성공적인, 성공한"
-day11,hold,"~을 수용하다, ~을 담다;
-(회의 등을)개최하다, 열다"
+day11,hold,"~을 수용하다, ~을 담다;(회의 등을)개최하다, 열다"
 day11,advance,"진보, 전진"
 day11,reliable,"믿을 만한, 신뢰할 수 있는"
 day11,quality,"품질, 질"
 day11,domestic,"국내의, 국산의"
 day11,development,"개발, 발전"
 day11,availability,"(입수)가능성, 유효성, 유용성"
-day11,update,"갱신, 개정, 갱신하다,
-최신의 것으로 하다"
+day11,update,"갱신, 개정, 갱신하다,최신의 것으로 하다"
 day11,accurate,정확한
 day11,complicate,복잡한(complicatedly복잡하게)
 day11,accomplished,"숙련된, 노련한"
@@ -464,15 +454,12 @@ day12,precaution,"예방조치, 예방책"
 day12,operate,"(기계 등이)작동하다, 움직이다"
 day12,processing,"가공, 처리(process 과정, 진행, 처리하다)"
 day12,capacity,"용량, 수용력; 역할"
-day12,assemble,"(부품,기계 등을)조립하다;
-(사람을)모으다"
+day12,assemble,"(부품,기계 등을)조립하다;(사람을)모으다"
 day12,utilize,"이용하다, 활용하다"
-day12,place,"~을-한 상태에 두다;
-(지시,주문,신청등을)하다"
+day12,place,"~을-한 상태에 두다;(지시,주문,신청등을)하다"
 day12,fill,~을 채우다; (주문대로)이행하다
 day12,manufacturing,제조(업)의
-day12,renovate,"(낡은 건물, 가구등을)개조하다,
-수리하다, 보수하다"
+day12,renovate,"(낡은 건물, 가구등을)개조하다,수리하다, 보수하다"
 day12,decision,"결정, 판단"
 day12,material,"재료, 물질"
 day12,success,"성과, 성공"
@@ -514,8 +501,7 @@ day13,replace,"~을 교체하다, 대체하다"
 day13,presentation,발표
 day13,evaluation,평가
 day13,confident,자신 있는
-day13,cause,"~을 야기하다, ~의 원인이 되다
-원인"
+day13,cause,"~을 야기하다, ~의 원인이 되다. 원인"
 day13,commentary,"해설, 설명(comment 해설하다,논평, 주석을달다)"
 day13,notification,통지
 day13,apologize,사과하다
@@ -528,8 +514,7 @@ day13,critical,비판적인; 중요한; 위기의
 day13,depend on,"~에 달려 있다, ~에게 의존하다"
 day13,combine,결합시키다
 day13,priority,"우선권, 우선사항"
-day13,observe,"관찰하다, 주시하다;
-(규칙 등을)준수하다, 지키다"
+day13,observe,"관찰하다, 주시하다;(규칙 등을)준수하다, 지키다"
 day13,defective,결함이 있는
 day13,reflect,"반영하다, 나타내다"
 day13,attitude,"태도, 마음가짐"
@@ -549,8 +534,7 @@ day14,superb,"최고의, 뛰어난"
 day14,baggage,수화물
 day14,destination,목적지
 day14,missing,"분실된, 없어진"
-day14,locate,"(~의 위치를)찾아내다;
-~을 위치시키다"
+day14,locate,"(~의 위치를)찾아내다;~을 위치시키다"
 day14,approximately,대략
 day14,duty,"관세,세금; 직무,의무"
 day14,process,"과정, 처리하다"
@@ -561,8 +545,7 @@ day14,specify,"명시하다 (specification 열거, 명시, 명세서)"
 day14,depart,출발하다
 day14,emergency,"비상시, 비상 사태"
 day14,passenger,승객
-day14,outgoing,"(장소를)출발하는, 떠나는;
-(지위를)떠나는"
+day14,outgoing,"(장소를)출발하는, 떠나는;(지위를)떠나는"
 day14,tighly,"단단히, 꽉"
 day14,tour,"(공장,시설 등의)견학, 짧은 여행"
 day14,carrier,"항공사, 수송기, 수송 회사"
@@ -603,8 +586,7 @@ day15,dedicate,"전념하다, 헌신하다, 바치다(indicate 나타내다)"
 day15,revised,"수정된, 변경된"
 day15,imperative,"반드시 해야 하는, 필수적인"
 day15,cooperatively,"협력하여, 협조적으로"
-day15,commission,"수수료, 커미션; 위원회
-(일 등을)의뢰하다, 주문하다"
+day15,commission,"수수료, 커미션; 위원회;(일 등을)의뢰하다, 주문하다"
 day15,omit,"빠뜨리다, 생략하다"
 day15,conflict,"대립, 충돌, 갈등"
 day15,renew,(계약 등을)갱신하다
@@ -626,8 +608,7 @@ day15,challenging,"도전적인, 힘든"
 day15,foundation,"토대, 기초"
 day16,completely,"전적으로, 완전히"
 day16,refuse,거절하다
-day16,temporarily,"일시적으로
-(temporary 일시적인, 잠정적인, 임시고용인)"
+day16,temporarily,"일시적으로 (temporary 일시적인, 잠정적인, 임시고용인)"
 day16,dealer,"판매업자, 상인"
 day16,bulk,대량의
 day16,inventory,"재고품, 재고목록"
@@ -637,31 +618,25 @@ day16,selection,"선택된 것, 정선품"
 day16,commercial,"상업의, 상업적인, 광고"
 day16,order,"주문하다, 주문, 주문품"
 day16,provide,"공급하다, 제공하다"
-day16,contact,"~와 연락하다,
-(상업적 목적으로)교섭하고 있는 사람"
+day16,contact,"~와 연락하다,(상업적 목적으로)교섭하고 있는 사람"
 day16,invoice,송장
-day16,move,"옮기다, 움직이다, 조치, 수단;
-이동, 이사"
+day16,move,"옮기다, 움직이다, 조치, 수단;이동, 이사"
 day16,supply,"공급하다, 공급; (-s)비품, 소모품"
 day16,discount,할인
 day16,distribute,"배포하다, 배급하다"
 day16,acquisition,인수; 구입한 것
 day16,assure,"~에게 보장하다, ~을 안심시키다, 장담하다"
-day16,subject,"~의 영향을 받기 쉬운;
-(동의 등을)조건으로 하는,
-~에게(~을) 받게 하다"
+day16,subject,"~의 영향을 받기 쉬운;(동의 등을)조건으로 하는,~에게(~을) 받게 하다"
 day16,seek,"구하다, 찾다"
 day16,satisfactory,만족스러운
 day16,confirmation,"확인, 확증"
 day16,unable,~할 수 없는
 day16,payment,"지불(금액),납입(금액)"
-day16,measure,"대책, 조치, 수단
-측정하다"
+day16,measure,"대책, 조치, 수단. 측정하다"
 day16,bargain,"특가품, 흥정"
 day16,stock,재고; 주식
 day16,affordability,감당할 수 있는 비용
-day16,clientele,"(집합적)고객들,
-(변호사,건축가 등의)모든 의뢰인"
+day16,clientele,"(집합적)고객들,(변호사,건축가 등의)모든 의뢰인"
 day16,acclaim,"호평, 찬사"
 day16,represent,~을 대표하다
 day16,rating,"등급, 평가"
@@ -678,10 +653,8 @@ day17,deliver,배달하다; (연설을)하다
 day17,ensure,"확실하게 하다, 보장하다"
 day17,courier,"급송 택배, 운반인"
 day17,carton,(큰)판지상자
-day17,address,"주소,
-(어려운 문제 등을)처리하다,다루다"
-day17,shipment,"선적, (화물의)발송;
-수송품, 적하물"
+day17,address,"주소,(어려운 문제 등을)처리하다,다루다"
+day17,shipment,"선적, (화물의)발송;수송품, 적하물"
 day17,particularly,특히
 day17,adequately,적절히
 day17,article,"물품, 물건; 기사, 논설"
@@ -712,21 +685,17 @@ day17,exclusion,"제외, 배제"
 day17,recipient,수신자
 day17,affix,(우표 등을)붙이다
 day17,incorrect,부정확한
-day17,oblige,"어쩔 수 없이 ~하게 하다,
-~에게 강요하다"
+day17,oblige,"어쩔 수 없이 ~하게 하다,~에게 강요하다"
 day17,step,"단계; 조치, 수단"
 day18,check in,"체크인하다, 숙박 수속을 하다"
-day18,compensate,"보상하다
-(compensation 보상)"
+day18,compensate,"보상하다(compensation 보상)"
 day18,complimentary,"무료의, 우대의"
 day18,chef,주방장
 day18,container,"용기, 그릇"
 day18,elegant,"우아한, 고상한"
 day18,flavor,"맛, 풍미"
-day18,accommodate,"(건물 등이)~을 수용하다, 숙박시키다;(충분한 공간을) 제공하다
-(조건, 요구 등을)만족시키다"
-day18,available,"(사물이)이용 가능한;
-(사람이) 시간이 있는"
+day18,accommodate,"(건물 등이)~을 수용하다, 숙박시키다;(충분한 공간을) 제공하다(조건, 요구 등을)만족시키다"
+day18,available,"(사물이)이용 가능한;(사람이) 시간이 있는"
 day18,reception,"환영회; (호텔, 회사, 병원 등의)접수처"
 day18,in advance,"미리, 사전에"
 day18,refreshments,"다과, 가벼운 음식물"
@@ -775,9 +744,7 @@ day19,sale,"(-s)매출액, 매상고; (할인)판매"
 day19,impressive,"굉장한, 인상적인"
 day19,representative,"직원, 외판원; 대표자"
 day19,recent,최근의
-day19,exceed,"~을 초과하다
-(exceedingly 대단히, 몹시)
-(exceedably 넘을 수 있는)"
+day19,exceed,"~을 초과하다(exceedingly 대단히, 몹시)(exceedably 넘을 수 있는)"
 day19,improvement,향상
 day19,employer,고용주
 day19,regular,정기적인; 단골의
@@ -790,16 +757,12 @@ day19,steady,꾸준한; 안정된
 day19,frequent,"빈번한, 잦은"
 day19,achieve,"달성하다, 성취하다"
 day19,assumption,"추정, 산정, 가정"
-day19,share,"공유하다, 함께쓰다;
-(생각, 경험, 감정을 남과)함께 나누다
-몫, 지분"
+day19,share,"공유하다, 함께쓰다;(생각, 경험, 감정을 남과)함께 나누다.몫, 지분"
 day19,incur,"(손실을)입다, (빚을)지다"
 day19,slightly,약간
 day19,profit,"수익, 이익"
-day19,reliant,"의존하는, 의지하는
-(reliantly 의지하여)"
-day19,illustrate,"분명히 보여주다, 설명하다
-(illustrate 설명,해설,삽화)"
+day19,reliant,"의존하는, 의지하는(reliantly 의지하여)"
+day19,illustrate,"분명히 보여주다, 설명하다(illustrate 설명,해설,삽화)"
 day19,inaccurate,부정확한
 day19,percentage,"비율, 백분율"
 day19,reduce,"줄이다, 감소시키다"
@@ -820,28 +783,21 @@ day20,capability,"능력, 역량"
 day20,proceeds,수익금
 day20,reimburse,"변제하다, 상환하다"
 day20,considerably,"상당히, 많이"
-day20,adequate,"충분한, 적절한
-(adequately 적절히, 충분히)"
+day20,adequate,"충분한, 적절한(adequately 적절히, 충분히)"
 day20,total,"총계의, 전부의"
-day20,allocate,"할당하다, 배분하다
-(allocation 할당)"
-day20,inspector,"조사관, 감독관
-(inspect 검사하다)"
+day20,allocate,"할당하다, 배분하다(allocation 할당)"
+day20,inspector,"조사관, 감독관(inspect 검사하다)"
 day20,preferred,"선호되는, 우선의"
 day20,quarter,사분기; 4분의1
-day20,interrupt,"중단시키다, 방해하다
-(interruption 방해, 중지, 중단)"
+day20,interrupt,"중단시키다, 방해하다(interruption 방해, 중지, 중단)"
 day20,browse,"흝어보다, 둘러보다"
 day20,prompt,"즉각적인; 신속한, 촉발하다, 유도하다 (promptly 신속히)"
-day20,deduct,"공제하다, 빼다
-(deduction 공제)"
+day20,deduct,"공제하다, 빼다(deduction 공제)"
 day20,measurement,"측정, 측량; 치수"
 day20,shorten,"단축하다, 짧게하다"
-day20,amend,"수정하다
-(amendable 개정할 수 있는)"
+day20,amend,"수정하다(amendable 개정할 수 있는)"
 day20,calculate,"계산하다, 산출하다"
-day20,exempt,"면제된, ~이 없는
-(exemption 면제)"
+day20,exempt,"면제된, ~이 없는(exemption 면제)"
 day20,deficient,"부족한, 불충분한"
 day20,compare,비교하다
 day20,fortunate,운 좋은
@@ -869,67 +825,47 @@ day21,dedicated,"(목표 등에)전념하는, 헌신적인"
 day21,misplace,"잃어버리다, 위치를 잘못 잡다"
 day21,considerable,(정도나 양이)상당한
 day21,last,지속되다
-day21,emerge,"부상하다, 나타나다
-(merge 합병하다)"
+day21,emerge,"부상하다, 나타나다(merge 합병하다)"
 day21,grow,"성장하다, 성장시키다, 증가시키다"
 day21,select,"선발하다, 선택하다"
 day21,merge,"합병하다, 병합하다"
 day21,imply,"암시하다, 넌지시 나타내다, 의미하다"
 day21,vital,필수적인
-day21,persist,"(집요하게)계속하다, 계속되다, 지속되다
-(continue 계속되다, 계속하다)"
+day21,persist,"(집요하게)계속하다, 계속되다, 지속되다(continue 계속되다, 계속하다)"
 day21,independent,"독립적인, 독자적인"
 day21,force,세력
 day21,establish,설립하다
-day21,initiate,"(사업 등을) 착수하다, 시작하다
-(commence 시작하다)"
-day21,enhance,"(질 등을) 향상시키다, 높이다, 강화하다
-(strengthen 강화하다)
-(reinforce 보강하다, 강화하다)"
+day21,initiate,"(사업 등을) 착수하다, 시작하다(commence 시작하다)"
+day21,enhance,"(질 등을) 향상시키다, 높이다, 강화하다(strengthen 강화하다)(reinforce 보강하다, 강화하다)"
 day21,renowned,"저명한, 유명한, 명성이 있는"
-day21,informed,"정보에 근거한
-(inform 알리다, 통지하다)"
+day21,informed,"정보에 근거한(inform 알리다, 통지하다)"
 day21,minutes,회의록
-day21,waive,"(규칙 등을)적용하지 않다,
-(권리,청구등을)포기하다
-(abandon 버리다, 단념하다, 그만두다)"
-day21,reach,"(치수,양 등이)~에 달하다;
-~에 도착하다"
+day21,waive,"(규칙 등을)적용하지 않다,(권리,청구등을)포기하다(abandon 버리다, 단념하다, 그만두다)"
+day21,reach,"(치수,양 등이)~에 달하다;~에 도착하다"
 day21,authority,권한; 당국
-day21,acquire,"매입하다, 취득하다
-(inquire 묻다)
-(inquiry 조사, 문의)"
+day21,acquire,"매입하다, 취득하다(inquire 묻다)(inquiry 조사, 문의)"
 day21,surpass,"~을 능가하다, 넘어서다"
 day21,run,"~을 운영하다, 경영하다"
-day21,improbable,"사실이라고 생각할 수 없는,
-일어날 것 같지 않은
-(probable 있음직한, 일어날것같은)"
+day21,improbable,"사실이라고 생각할 수 없는,일어날 것 같지 않은(probable 있음직한, 일어날것같은)"
 day21,edge,"우위, 유리함; 가장자리, 끝"
-day21,simultaneously,"동시에
-(coincidentally 우연히 일치하게 동시발생적으로)"
+day21,simultaneously,"동시에(coincidentally 우연히 일치하게 동시발생적으로)"
 day21,reveal,"밝히다, 누설하다"
 day21,productivity,생산성
 day21,uncertain,"확신이 없는, 불확실한"
 day21,premier,"으뜸의, 첫째의"
 day22,agenda,"의제, 의사일정"
-day22,convene,"(회원 등이)모이다, (회의가)개최되다
-(convener 의장,소집자)"
-day22,refute,"부인하다, 반박하다
-(refutation 반박, 반론)"
+day22,convene,"(회원 등이)모이다, (회의가)개최되다(convener 의장,소집자)"
+day22,refute,"부인하다, 반박하다(refutation 반박, 반론)"
 day22,coordination,조정
-day22,unanimous,"만장일치의, 동의하는
-(unanimously  만장일치로)"
+day22,unanimous,"만장일치의, 동의하는(unanimously  만장일치로)"
 day22,convince,"납득시키다, 확신시키다"
 day22,consensus,"여론, 일치된 의견"
-day22,defer,"연기하다, 미루다
-(differ 다르다)"
+day22,defer,"연기하다, 미루다(differ 다르다)"
 day22,usually,"보통, 일반적으로"
 day22,reschedule,일정을 바꾸다
 day22,meeting,회의
 day22,determine,"알아내다; 결정하다, 확정하다"
-day22,report,"보고하다; 출두하다,
-(직장,회의 등에 도착을)알리다,
-보고서; 보도, 기록"
+day22,report,"보고하다; 출두하다,(직장,회의 등에 도착을)알리다,보고서; 보도, 기록"
 day22,comment,"논평하다, 언급하다"
 day22,phase,단계
 day22,approve,"승인하다, 찬성하다"
@@ -939,8 +875,7 @@ day22,record,"기록; 경력, 이력, 기록하다"
 day22,suggestion,제안
 day22,attention,"주의, 경청"
 day22,object,반대하다
-day22,coincidentally,"우연히, 일치하게, 동시 발생적으로
-(coincident 일치하는)"
+day22,coincidentally,"우연히, 일치하게, 동시 발생적으로(coincident 일치하는)"
 day22,crowded,"붐비는, 복잡한"
 day22,undergo,"겪다, 거치다, 경험하다"
 day22,outcome,결과 (=consequence)
@@ -959,8 +894,7 @@ day22,understanding,이해심 있는
 day22,adjourn,(회의 등을)휴회하다
 day22,constructive,건설적인
 day22,preside,"(회의의)사회를 보다, ~의 의장을 맡아보다"
-day22,irrelevant,"관계가 없는, 무관한
-(relevant 관계가 있는)"
+day22,irrelevant,"관계가 없는, 무관한(relevant 관계가 있는)"
 day22,constraint,제한(=restriction)
 day23,host,(대회 등을)주최하다
 day23,annual,매년의
@@ -981,12 +915,8 @@ day23,require,요구하다
 day23,grateful,"고마워하는, 감사하는"
 day23,overtime,"초과근무, 야근"
 day23,responsibility,"부담, 책임, 의무"
-day23,assent,"찬성하다, 승인, 동의
-(approval 승인)
-(approve 찬성하다)
-(prove 증명하다)"
-day23,regard,"~을 -으로 간주하다, 여기다,
-관심,배려"
+day23,assent,"찬성하다, 승인, 동의(approval 승인)(approve 찬성하다)(prove 증명하다)"
+day23,regard,"~을 -으로 간주하다, 여기다,관심,배려"
 day23,tentative,"임시적인, 잠정적인"
 day23,welcome,"반가운, 기꺼이 받아들여지는"
 day23,function,"행사, 연회"
@@ -1005,16 +935,13 @@ day23,arise,"(문제 등이)발생하다, 일어나다 = occur"
 day23,labor,노동
 day23,union,노동조합
 day23,existing,"기존의, 현행의"
-day23,exploit,"착취하다, 부당하게 이용하다
-(exploitation 개발,개척,약탈,착취)"
+day23,exploit,"착취하다, 부당하게 이용하다(exploitation 개발,개척,약탈,착취)"
 day24,appoint,"임명하다, 지명하다"
 day24,appraisal,평가
 day24,promote,승진시키다; 촉진하다
 day24,skilled,"숙련된, 노련한"
-day24,radically,"완전히, 철저히, 근본적으로
-(radical 근본적인, 과격한)"
-day24,exceptional,"뛰어난, 예외적인
-(exception 예외, 이의, 반대)"
+day24,radically,"완전히, 철저히, 근본적으로(radical 근본적인, 과격한)"
+day24,exceptional,"뛰어난, 예외적인(exception 예외, 이의, 반대)"
 day24,appreciation,감사
 day24,evaluate,평가하다
 day24,suggest,"제안하다, 추천하다"
@@ -1022,23 +949,18 @@ day24,preference,선호
 day24,management,"경영진, 경영"
 day24,predict,예측하다
 day24,transfer,보내다; 전근시키다
-day24,award,"상
-(reward 보상하다, 포상,보상)"
+day24,award,"상(reward 보상하다, 포상,보상)"
 day24,mandatory,의무적인
-day24,competent,"유능한, 능숙한
-(competence 능력)"
+day24,competent,"유능한, 능숙한(competence 능력)"
 day24,performance,"실적,성과; 공연,연주, 연기"
-day24,reward,"~에 보답하다, 보상하다, 포상,보상
-(award 상)"
+day24,reward,"~에 보답하다, 보상하다, 포상,보상(award 상)"
 day24,search,"찾기, 수색, 조사"
 day24,inexperienced,"경험없는, 미숙한"
 day24,early,"시간상 이른, 조기의"
 day24,designate,"지명하다, 지정하다"
 day24,executive,"경영의,관리의"
 day24,dedication,헌신
-day24,unanimously,"만장일치로
-(unanimous 만장일치의)
-(anonymously 익명으로, 특색없이)"
+day24,unanimously,"만장일치로(unanimous 만장일치의)(anonymously 익명으로, 특색없이)"
 day24,progress,"진행, 진척, 진전, 진보하다, 발전하다"
 day24,congratulate,축하하다
 day24,dismiss,"해임하다, 해고하다"
@@ -1046,20 +968,16 @@ day24,independence,독립성
 day24,participation,"참여, 참가, 가입"
 day24,praise,칭찬
 day24,accomplishment,"성과,업적"
-day24,deliberation,"토의, 심의, 숙고
-(deliberate 고의의, 숙고하다)"
+day24,deliberation,"토의, 심의, 숙고(deliberate 고의의, 숙고하다)"
 day24,leadership,"리더십, 지도력"
 day24,retire,"퇴직하다, 은퇴하다"
 day24,nomination,"임명, 지명"
-day24,reorganize,"재편성하다, 재조직하다
-(recognize 인식하다)
-(organize 조직하다)"
+day24,reorganize,"재편성하다, 재조직하다(recognize 인식하다)(organize 조직하다)"
 day24,serve,"근무하다, 일하다"
 day24,encouragement,격려
 day24,resignation,"사임, 사직, 사직서"
 day24,strictly,엄격히
-day25,congestion,"(교통의)체증, 혼잡
-(congest 혼잡하게 하다)"
+day25,congestion,"(교통의)체증, 혼잡(congest 혼잡하게 하다)"
 day25,alleviate,완화하다
 day25,divert,"우회시키다, 다른 곳으로 돌리다"
 day25,detour,우회
@@ -1092,16 +1010,13 @@ day25,drive,"(차 등을)운전하다, 타고가다, 조종하다"
 day25,fine,벌금
 day25,pass,"지나가다, 통과하다"
 day25,securely,"(매듭 등이)단단하게, 튼튼하게"
-day25,prominently,"눈에 잘 띄게, 두드러지게
-(prominent 눈에 띄는)"
+day25,prominently,"눈에 잘 띄게, 두드러지게(prominent 눈에 띄는)"
 day25,reserved,"예약된, 예약한; 지정된"
 day25,average,"평균치, 평균"
 day25,collision,충돌
 day25,tow,견인하다
 day25,reverse,"뒤의, 반대의"
-day25,obstruct,"(전망 등을)가리다, 차단하다;
-(도로 등을)막다
-(obstruction 장애물, 방해물)"
+day25,obstruct,"(전망 등을)가리다, 차단하다;(도로 등을)막다(obstruction 장애물, 방해물)"
 day26,delinquent,"(세금 등이)연체된, 미불의"
 day26,overdue,"(지불,반납 등의)기한이 지난, 지불 기한이 넘은"
 day26,regrettably,유감스럽게도
@@ -1113,8 +1028,7 @@ day26,statement,"명세서, 성명서"
 day26,amount,"액수, 양"
 day26,withdrawal,(예금의)인출
 day26,previously,이전에
-day26,due,"만기가 된, 지불 기일이 된;
-(금전 등이)~에게 마땅히 지급되어야 할"
+day26,due,"만기가 된, 지불 기일이 된;(금전 등이)~에게 마땅히 지급되어야 할"
 day26,receive,"받다, 수취하다"
 day26,expect,"예상하다, 기대하다"
 day26,certificate,"증명서, 증서"
@@ -1124,8 +1038,7 @@ day26,successfully,성공적으로
 day26,bill,"~에게 청구서를 보내다, 청구서, 계산서"
 day26,pleasure,"즐거움, 기쁜, 영광"
 day26,study,연구
-day26,summary,"요약, 개요
-(emphasize 강조하다)"
+day26,summary,"요약, 개요(emphasize 강조하다)"
 day26,temporary,임시의
 day26,lower,"(양,가격을)줄이다"
 day26,transaction,"거래, 업무"
@@ -1136,8 +1049,7 @@ day26,in common,"공통으로, 공동으로"
 day26,interest,관심; 권리; 이자
 day26,reject,"거절하다, 거부하다"
 day26,relation,관계
-day26,tentatively,"임시로, 시험적으로
-(tentative 시험적인, 임시의, 가설)"
+day26,tentatively,"임시로, 시험적으로(tentative 시험적인, 임시의, 가설)"
 day26,alternatively,"그렇지 않으면, 그 대신에"
 day26,attentive,"주의 깊은, 세심한"
 day26,convert,"전환하다, 변환하다"
@@ -1149,30 +1061,21 @@ day26,mortgage,(담보)대출
 day26,payable,지불해야 하는
 day26,personal,개인의
 day27,investment,"투자, 투자금"
-day27,incrative,"수익성 있는, 돈벌이가 되는
-(profit, earning, gainings 이익)
-(income 수입, 소득)"
-day27,inherently,"본질적으로
-(inherent 본래 갖추어져 있는, 고유의)"
-day27,secure,"확보하다, 얻어 내다;
-안전하게 지키다, 고정시키다"
-day27,foreseeable,"예견할 수 있는
-(oversee 감독하다)
-(overseas 외국의)"
+day27,incrative,"수익성 있는, 돈벌이가 되는(profit, earning, gainings 이익)(income 수입, 소득)"
+day27,inherently,"본질적으로(inherent 본래 갖추어져 있는, 고유의)"
+day27,secure,"확보하다, 얻어 내다;안전하게 지키다, 고정시키다"
+day27,foreseeable,"예견할 수 있는(oversee 감독하다)(overseas 외국의)"
 day27,innate,타고난
 day27,property,재산
 day27,on behalf of,~을 대신해서
 day27,lease,임대차(계약)
 day27,sponsor,"후원하다, 후원자"
 day27,propose,제안하다
-day27,support,"후원, 원조, 지지, 지원하다,
-후원하다; 살게하다,
-(생명, 기력 등을)유지하다"
+day27,support,"후원, 원조, 지지, 지원하다,후원하다; 살게하다,(생명, 기력 등을)유지하다"
 day27,distributuion,"분배, 배급"
 day27,consider,고려하다
 day27,nearly,"거의, 대략"
-day27,consent,"동의, 허락, 동의하다
-(consentaneous일치하는)"
+day27,consent,"동의, 허락, 동의하다(consentaneous일치하는)"
 day27,gratitude,"고마움, 감사"
 day27,consult,"상의하다, 상담하다"
 day27,advice,"조언, 충고"
@@ -1183,8 +1086,7 @@ day27,cautious,"조심하는, 신중한"
 day27,insight,"식견, 통찰력"
 day27,portfolio,"포트폴리오, 투자 자산 구성"
 day27,possible,"가능한, 있음직한"
-day27,speculation,"추측
-(speculate, suppose, guess, infer 추측하다)"
+day27,speculation,"추측(speculate, suppose, guess, infer 추측하다)"
 day27,solely,"오로지, 혼자서, 전적으로"
 day27,entrepreneur,사업가
 day27,eventually,"결국, 마침내"
@@ -1192,21 +1094,17 @@ day27,shareholder,주주
 day27,outlook,전망
 day27,stability,"안정, 안정성"
 day27,bond,채권
-day27,depreciation,"가치 하락, 화폐의 구매력 저하
-(depreciate : ~의 가치를 떨어뜨리다, 가치가 떨어지다)"
+day27,depreciation,"가치 하락, 화폐의 구매력 저하(depreciate : ~의 가치를 떨어뜨리다, 가치가 떨어지다)"
 day27,increasing,증가하는
-day27,prevalent,"유행하고 있는, 널리 퍼진
-(prevalence 보급, 유행)"
+day27,prevalent,"유행하고 있는, 널리 퍼진(prevalence 보급, 유행)"
 day27,rapid,"빠른, 신속한"
-day27,unprecedented,"전례 없는
-(precedented 전례가 있는)"
+day27,unprecedented,"전례 없는(precedented 전례가 있는)"
 day27,yield,"(이윤을) 가져오다, 산출하다"
 day28,furnished,가구가 비치된
 day28,residence,"거주지, 주택"
 day28,spacious,(공간이)넓은
 day28,drape,(방 등을 커튼 등으로)장식하다
-day28,unoccupied,"(집 등이)비어 있는, 사람이 살지 않는
-(occupy 차지하다, 점유하다)"
+day28,unoccupied,"(집 등이)비어 있는, 사람이 살지 않는(occupy 차지하다, 점유하다)"
 day28,renovation,"수리, 개조"
 day28,appropriate,"적당한, 적합한(appropriately 적합하게)"
 day28,delay,"연기하다, ~을 뒤로 미루다"
@@ -1217,11 +1115,8 @@ day28,currently,현재
 day28,regularly,정기적으로
 day28,arrange,"배열하다, 정돈하다"
 day28,location,"장소, 위치"
-day28,restore,"복구하다, 회복시키다
-(recovery 회복, recover되찾다, 회복하다)"
-day28,presently,"현재
-(present, current현재의)
-(latest, recent, up to date 최근의)"
+day28,restore,"복구하다, 회복시키다(recovery 회복, recover되찾다, 회복하다)"
+day28,presently,"현재(present, current현재의)(latest, recent, up to date 최근의)"
 day28,numerous,많은
 day28,abandon,"그만두다; 버리다(abondonment 버림, 포기)"
 day28,contractor,"계약자, 도급업자"
@@ -1251,8 +1146,7 @@ day29,forecast,(날씨의)예보
 day29,waste,"쓰레기, 폐기물"
 day29,dispose,"처분하다, 처리하다"
 day29,recycling,재활용
-day29,clear,"맑게 갠; 명백한, 분명한
-또렷하게, 완전히; 떨어져서"
+day29,clear,"맑게 갠; 명백한, 분명한,또렷하게, 완전히; 떨어져서"
 day29,damage,"피해, 손해, 손상시키다"
 day29,significant,"상당한; 중대한, 중요한"
 day29,solution,해결책
@@ -1296,8 +1190,7 @@ day30,physician,내과의사
 day30,diagnosis,진단
 day30,prescribe,"(약을)처방하다, 규정하다"
 day30,recovery,"회복, 쾌유"
-day30,recognize,"인정하다, 알아보다
-(organize 조직하다)"
+day30,recognize,"인정하다, 알아보다(organize 조직하다)"
 day30,join,~에 가입하다
 day30,comprehensive,"종합적인, 포괄적인"
 day30,participate,"참여하다, 참가하다"
@@ -1323,8 +1216,7 @@ day30,pharmaceutical,"제약의, 약학의"
 day30,premium,보험료
 day30,relieve,완화시키다
 day30,combination,"결합, 연합"
-day30,conscious,"알고 있는, 자각하고 있는
-(consciousness : 의식)"
+day30,conscious,"알고 있는, 자각하고 있는(consciousness : 의식)"
 day30,deprivation,"박탈, 상실(deprivative 박탈하는, 빼앗는)"
 day30,health,"건강; (사회,기관의,)번영,안녕"
 day30,induce,"유발하다 (reduce줄이다, 낮추다)"
