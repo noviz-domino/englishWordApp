@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EnglishWordApp" parent="Theme.Material3.DayNight.NoActionBar">
+<!--    <style name="Base.Theme.EnglishWordApp" parent="Theme.Material3.DayNight.NoActionBar">-->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.EnglishWordApp.Splash" parent="Theme.SplashScreen">
+<!--        배경색-->
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+<!--        앱아이콘사용-->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+<!--        아이콘표시시간-->
+        <item name="windowSplashScreenAnimationDuration">500</item>
+<!--        스플래시 이후적용테마-->
+        <item name="postSplashScreenTheme">@style/Base.Theme.EnglishWordApp</item>
+
+
+    </style>
+
+<!--    <style name="Theme.EnglishWordApp" parent="Base.Theme.EnglishWordApp" />-->
+</resources>
